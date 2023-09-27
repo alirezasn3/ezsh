@@ -1,8 +1,6 @@
 # Easy Scripts
 
-A set of useful bash scripts that you can download and run in one line. Run the scripts as instructed.
-
-# Scripts
+A set of useful bash scripts that you can download and run in one line. Run the scripts as instructed. Note that the scripts are only tested on Ubuntu 20 at this time.
 
 ## Install Go
 Install Go 1.21.1
